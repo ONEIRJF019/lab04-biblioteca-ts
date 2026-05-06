@@ -1,0 +1,17 @@
+{
+    "name": "lab01-biblioteca-ts",
+    "version": "1.0.0",
+    "description": "Sistema de Gerenciamento de Biblioteca em TypeScript",
+    "main": "biblioteca.ts",
+    "scripts": {
+        "start": "ts-node biblioteca.ts",
+        "build": "tsc"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "ts-node": "^10.9.0",
+        "@types/node": "^20.0.0"
+    }
+}
